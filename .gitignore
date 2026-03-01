@@ -1,0 +1,32 @@
+# --- Unity generated ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Package cache (usually inside Library, but keep explicit)
+**/[Pp]ackage[Cc]ache/
+
+# --- OS / IDE ---
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# --- Rider / VS / C# ---
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# --- Unity meta (KEEP) ---
+# Do NOT ignore *.meta
